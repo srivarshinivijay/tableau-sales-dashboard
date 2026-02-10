@@ -28,7 +28,7 @@ Sample Superstore dataset (Retail sales data including orders, customers, produc
 - Interactive filters for Ship Mode and Region
 
 ## 📸 Dashboard Preview
-![Sales Dashboard](screenshots/overview.png)
+![Sales Dashboard](Dashboard Screenshot.png)
 
 ## 🔍 Key Insights
 - Standard Class shipping generated the highest profit but also had the longest average delivery time.
